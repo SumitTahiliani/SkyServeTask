@@ -4,6 +4,8 @@
 
 **Dataset**: [https://github.com/phelber/eurosat](https://github.com/phelber/eurosat)
 
+**Note**: The train_cnn.ipynb as well train_resnet.ipynb are from the original repo (retained here for ease of comparison). The work done by me can be found in training.ipynb
+
 ## Dataset Information
 
 - **Total Images**: 27,000 satellite images
