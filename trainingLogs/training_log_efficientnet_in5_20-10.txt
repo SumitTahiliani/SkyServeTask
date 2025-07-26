@@ -1,0 +1,238 @@
+
+Epoch 1/50
+Train | Loss: 1.2811 | Acc: 0.5564 | F1: 0.5368
+Val   | Loss: 0.5243 | Acc: 0.8262 | F1: 0.8197
+LR: 1.00e-04
+New best model saved! F1: 0.8197
+
+Epoch 2/50
+Train | Loss: 0.8185 | Acc: 0.7153 | F1: 0.7054
+Val   | Loss: 0.3709 | Acc: 0.8835 | F1: 0.8784
+LR: 1.00e-04
+New best model saved! F1: 0.8784
+
+Epoch 3/50
+Train | Loss: 0.6836 | Acc: 0.7621 | F1: 0.7547
+Val   | Loss: 0.2676 | Acc: 0.9173 | F1: 0.9147
+LR: 1.00e-04
+New best model saved! F1: 0.9147
+
+Epoch 4/50
+Train | Loss: 0.5874 | Acc: 0.7944 | F1: 0.7886
+Val   | Loss: 0.2351 | Acc: 0.9230 | F1: 0.9201
+LR: 1.00e-04
+New best model saved! F1: 0.9201
+
+Epoch 5/50
+Train | Loss: 0.5125 | Acc: 0.8208 | F1: 0.8157
+Val   | Loss: 0.1926 | Acc: 0.9383 | F1: 0.9359
+LR: 1.00e-04
+New best model saved! F1: 0.9359
+
+Epoch 6/50
+Train | Loss: 0.4937 | Acc: 0.8289 | F1: 0.8238
+Val   | Loss: 0.1846 | Acc: 0.9435 | F1: 0.9412
+LR: 1.00e-04
+New best model saved! F1: 0.9412
+
+Epoch 7/50
+Train | Loss: 0.4427 | Acc: 0.8487 | F1: 0.8448
+Val   | Loss: 0.1627 | Acc: 0.9457 | F1: 0.9435
+LR: 1.00e-04
+New best model saved! F1: 0.9435
+
+Epoch 8/50
+Train | Loss: 0.4202 | Acc: 0.8513 | F1: 0.8472
+Val   | Loss: 0.1570 | Acc: 0.9459 | F1: 0.9431
+LR: 1.00e-04
+
+Epoch 9/50
+Train | Loss: 0.3915 | Acc: 0.8621 | F1: 0.8588
+Val   | Loss: 0.1263 | Acc: 0.9593 | F1: 0.9575
+LR: 1.00e-04
+New best model saved! F1: 0.9575
+
+Epoch 10/50
+Train | Loss: 0.3641 | Acc: 0.8718 | F1: 0.8686
+Val   | Loss: 0.1350 | Acc: 0.9585 | F1: 0.9567
+LR: 1.00e-04
+
+Epoch 11/50
+Train | Loss: 0.3529 | Acc: 0.8759 | F1: 0.8727
+Val   | Loss: 0.1213 | Acc: 0.9632 | F1: 0.9615
+LR: 1.00e-04
+New best model saved! F1: 0.9615
+
+Epoch 12/50
+Train | Loss: 0.3410 | Acc: 0.8807 | F1: 0.8779
+Val   | Loss: 0.1185 | Acc: 0.9632 | F1: 0.9620
+LR: 1.00e-04
+New best model saved! F1: 0.9620
+
+Epoch 13/50
+Train | Loss: 0.3213 | Acc: 0.8883 | F1: 0.8850
+Val   | Loss: 0.1015 | Acc: 0.9686 | F1: 0.9676
+LR: 1.00e-04
+New best model saved! F1: 0.9676
+
+Epoch 14/50
+Train | Loss: 0.3061 | Acc: 0.8921 | F1: 0.8898
+Val   | Loss: 0.1779 | Acc: 0.9632 | F1: 0.9628
+LR: 1.00e-04
+
+Epoch 15/50
+Train | Loss: 0.2948 | Acc: 0.8963 | F1: 0.8937
+Val   | Loss: 0.1273 | Acc: 0.9632 | F1: 0.9625
+LR: 1.00e-04
+
+Epoch 16/50
+Train | Loss: 0.2877 | Acc: 0.8973 | F1: 0.8946
+Val   | Loss: 0.0937 | Acc: 0.9714 | F1: 0.9704
+LR: 1.00e-04
+New best model saved! F1: 0.9704
+
+Epoch 17/50
+Train | Loss: 0.2761 | Acc: 0.9040 | F1: 0.9015
+Val   | Loss: 0.0991 | Acc: 0.9684 | F1: 0.9675
+LR: 1.00e-04
+
+Epoch 18/50
+Train | Loss: 0.2709 | Acc: 0.9059 | F1: 0.9037
+Val   | Loss: 0.1021 | Acc: 0.9686 | F1: 0.9672
+LR: 1.00e-04
+
+Epoch 19/50
+Train | Loss: 0.2688 | Acc: 0.9063 | F1: 0.9040
+Val   | Loss: 0.1093 | Acc: 0.9699 | F1: 0.9684
+LR: 1.00e-04
+
+Epoch 20/50
+Train | Loss: 0.2619 | Acc: 0.9087 | F1: 0.9063
+Val   | Loss: 0.1178 | Acc: 0.9657 | F1: 0.9637
+LR: 1.00e-04
+
+Epoch 21/50
+Train | Loss: 0.2541 | Acc: 0.9136 | F1: 0.9115
+Val   | Loss: 0.0846 | Acc: 0.9761 | F1: 0.9750
+LR: 1.00e-04
+New best model saved! F1: 0.9750
+
+Epoch 22/50
+Train | Loss: 0.2423 | Acc: 0.9166 | F1: 0.9145
+Val   | Loss: 0.0900 | Acc: 0.9751 | F1: 0.9737
+LR: 1.00e-04
+
+Epoch 23/50
+Train | Loss: 0.2514 | Acc: 0.9132 | F1: 0.9113
+Val   | Loss: 0.1002 | Acc: 0.9721 | F1: 0.9710
+LR: 1.00e-04
+
+Epoch 24/50
+Train | Loss: 0.2342 | Acc: 0.9210 | F1: 0.9193
+Val   | Loss: 0.1291 | Acc: 0.9654 | F1: 0.9653
+LR: 1.00e-04
+
+Epoch 25/50
+Train | Loss: 0.2299 | Acc: 0.9188 | F1: 0.9172
+Val   | Loss: 0.0943 | Acc: 0.9741 | F1: 0.9732
+LR: 1.00e-04
+
+Epoch 26/50
+Train | Loss: 0.2311 | Acc: 0.9198 | F1: 0.9180
+Val   | Loss: 0.0800 | Acc: 0.9778 | F1: 0.9769
+LR: 1.00e-04
+New best model saved! F1: 0.9769
+
+Epoch 27/50
+Train | Loss: 0.2249 | Acc: 0.9230 | F1: 0.9214
+Val   | Loss: 0.0950 | Acc: 0.9753 | F1: 0.9745
+LR: 1.00e-04
+
+Epoch 28/50
+Train | Loss: 0.2178 | Acc: 0.9234 | F1: 0.9215
+Val   | Loss: 0.0877 | Acc: 0.9785 | F1: 0.9775
+LR: 1.00e-04
+New best model saved! F1: 0.9775
+
+Epoch 29/50
+Train | Loss: 0.2199 | Acc: 0.9241 | F1: 0.9223
+Val   | Loss: 0.0866 | Acc: 0.9780 | F1: 0.9771
+LR: 1.00e-04
+
+Epoch 30/50
+Train | Loss: 0.2113 | Acc: 0.9265 | F1: 0.9246
+Val   | Loss: 0.0765 | Acc: 0.9807 | F1: 0.9800
+LR: 1.00e-04
+New best model saved! F1: 0.9800
+
+Epoch 31/50
+Train | Loss: 0.2109 | Acc: 0.9267 | F1: 0.9249
+Val   | Loss: 0.0943 | Acc: 0.9758 | F1: 0.9747
+LR: 1.00e-04
+
+Epoch 32/50
+Train | Loss: 0.2096 | Acc: 0.9271 | F1: 0.9255
+Val   | Loss: 0.0851 | Acc: 0.9783 | F1: 0.9773
+LR: 1.00e-04
+
+Epoch 33/50
+Train | Loss: 0.2021 | Acc: 0.9291 | F1: 0.9276
+Val   | Loss: 0.0783 | Acc: 0.9795 | F1: 0.9785
+LR: 1.00e-04
+
+Epoch 34/50
+Train | Loss: 0.2017 | Acc: 0.9296 | F1: 0.9280
+Val   | Loss: 0.0726 | Acc: 0.9827 | F1: 0.9818
+LR: 1.00e-04
+New best model saved! F1: 0.9818
+
+Epoch 35/50
+Train | Loss: 0.2015 | Acc: 0.9320 | F1: 0.9305
+Val   | Loss: 0.0796 | Acc: 0.9793 | F1: 0.9784
+LR: 1.00e-04
+
+Epoch 36/50
+Train | Loss: 0.2013 | Acc: 0.9308 | F1: 0.9294
+Val   | Loss: 0.0849 | Acc: 0.9778 | F1: 0.9769
+LR: 1.00e-04
+
+Epoch 37/50
+Train | Loss: 0.1860 | Acc: 0.9336 | F1: 0.9321
+Val   | Loss: 0.0743 | Acc: 0.9788 | F1: 0.9777
+LR: 1.00e-04
+
+Epoch 38/50
+Train | Loss: 0.1856 | Acc: 0.9347 | F1: 0.9333
+Val   | Loss: 0.0863 | Acc: 0.9793 | F1: 0.9783
+LR: 1.00e-04
+
+Epoch 39/50
+Train | Loss: 0.1893 | Acc: 0.9345 | F1: 0.9332
+Val   | Loss: 0.0799 | Acc: 0.9785 | F1: 0.9777
+LR: 1.00e-04
+
+Epoch 40/50
+Train | Loss: 0.1793 | Acc: 0.9387 | F1: 0.9375
+Val   | Loss: 0.0858 | Acc: 0.9783 | F1: 0.9773
+LR: 5.00e-05
+
+Epoch 41/50
+Train | Loss: 0.1733 | Acc: 0.9406 | F1: 0.9397
+Val   | Loss: 0.0775 | Acc: 0.9795 | F1: 0.9786
+LR: 5.00e-05
+
+Epoch 42/50
+Train | Loss: 0.1618 | Acc: 0.9443 | F1: 0.9432
+Val   | Loss: 0.0819 | Acc: 0.9780 | F1: 0.9771
+LR: 5.00e-05
+
+Epoch 43/50
+Train | Loss: 0.1654 | Acc: 0.9423 | F1: 0.9411
+Val   | Loss: 0.0702 | Acc: 0.9817 | F1: 0.9807
+LR: 5.00e-05
+
+Epoch 44/50
+Train | Loss: 0.1609 | Acc: 0.9447 | F1: 0.9435
+Val   | Loss: 0.0670 | Acc: 0.9815 | F1: 0.9805
+LR: 5.00e-05
+Early stopping triggered after 10 epochs without improvement.
