@@ -14,7 +14,7 @@
 - **Spectral Bands**: 13 bands from Sentinel-2 satellite (B01-B12 + B8A)
 - **Classes**: AnnualCrop, Forest, HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop, Residential, River, SeaLake
 
-The dataset is well-balanced with 2,700 images per class, which makes it good for training without worrying about class imbalance issues.
+The dataset is well-balanced with around 2,700 images per class (no major imbalance), which makes it good for training without worrying about class imbalance issues.
 
 ## Baseline Implementation Analysis
 
